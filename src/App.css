@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 7px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 3rem;
+  background-color: rgb(24, 20, 20);
+  color: rgb(255, 255, 255);
+}
+
+button{
+  height:3.5rem;
+  text-align: center;
+
+}
+
+input{
+  width: 30px;
+  font-weight: 500;
+}
+.form-control{
+  font-size: 2rem;
+}
